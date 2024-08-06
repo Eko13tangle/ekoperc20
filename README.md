@@ -1,0 +1,2 @@
+# ekoperc20
+MINT A PERC-20 TOKEN
